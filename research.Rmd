@@ -23,7 +23,7 @@ pagetitle: "Jerred K. Schafer"
 2013: NSF Research Experience for Undergraduates (REU) Fellowship
 
 
-### Selected publications
+## Selected publications
 
 **Schafer JK**, Gordon AD, Ngoubangoye B, Charpentier, M.J.E., Setchell JM. (2021). Heritability of secondary sexual characters in mandrills (*Mandrillus sphinx*). *Am Nat*. Submitted.
 
