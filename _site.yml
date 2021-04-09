@@ -1,7 +1,7 @@
-name: "Emily C. Zabor"
+name: "Jerred K. Schafer"
 output_dir: "."
 navbar:
-  title: "Emily C. Zabor"
+  title: "Jerred K. Schafer"
   left:
     - text: "Research"
       href: research.html
@@ -15,15 +15,15 @@ navbar:
     - icon: fa-envelope fa-lg
       href: contact.html
     - icon: ai-google-scholar ai-lg
-      href: https://scholar.google.com/citations?user=tLbQTZMAAAAJ&hl=en
+      href: https://scholar.google.com/citations?user=coXeHS4AAAAJ&hl=en
     - icon: ai-cv ai-lg
-      href: ./files/Zabor_Emily_CV.pdf
+      href: ./files/Schafer_CV_2021-04-04.pdf
     - icon: fa-github fa-lg
-      href: http://github.com/zabore
+      href: https://github.com/jkschafer
     - icon: fa-twitter fa-lg
       href: https://twitter.com/zabormetrics
     - icon: fa-linkedin fa-lg
-      href: https://www.linkedin.com/in/emily-zabor-59b902b7/
+      href: https://www.linkedin.com/in/jerred-schafer-26784a1b0/
 output:
   html_document:
     theme: paper
