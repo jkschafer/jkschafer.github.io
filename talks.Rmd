@@ -8,40 +8,19 @@ pagetitle: "Jerred K. Schafer"
 
 ## Invited
 
-2020 Greater Cleveland R Group, Cleveland, OH: *Creating presentation-ready summary tables with {gtsummary}* ([slides](http://www.emilyzabor.com/cleveland-r-gtsummary/#1))
+2020 Durham University Evolutionary Anthropology Research Group (EARG) Seminar Series: *Microevolution of secondary sexual characteristics in mandrills*
 
-2020 Cleveland Clinic Florida Cancer Grand Rounds, Weston, FL: *Etiologic heterogeneity in cancer*
+2019 Clarion University Department of Anthropology Seminar Series: *The evolution of sex differences in mandrills*
 
-2018 Memorial Sloan Kettering Cancer Center Department of Epidemiology & Biostatistics, New York, NY: *Statistical methods for the study of etiologic heterogeneity*
+## Conference Presentations
 
-2018 Cleveland Clinic Department of Quantitative Health Sciences, Cleveland, OH: *Statistical methods for the study of etiologic heterogeneity*
+2020 American Society of Physical Anthropologist, Online: *Quantitative Genetics of Body Mass and Color in Mandrills*
 
-2018 NYU School of Medicine Department of Population Health, Division of Biostatistics, New York, NY: *Statistical methods for the study of etiologic heterogeneity*
+2019 American Society of Physical Anthropologist, Cleveland, OH: *Response to selection on facial coloration in mandrills*
 
-2018 Mayo Clinic Department of Health Sciences Research, Rochester, MN: *Validity of a method for identifying etiologically heterogeneous disease subtypes*
+2018 American Society of Physical Anthropologist, Austin, TX: *Heritability of coloration in Mandrillus sphinx*
 
-2018 R/Medicine, New Haven, CT: *Teaching Survival Analysis to Clinical Collaborators*
+2016 Northeastern Evolutionary Primatologist Conference (NEEP), New York, NY: *The relationship between mtDNA substitution parameters and BMR in primates*
 
-2018 New York R Conference, New York, NY: *How Long Will I Live? The Statistics Behind Prognosis in Cancer Research*
-
-
-## Contributed
-
-2018 Joint Statistical Meetings, Vancouver, BC, Canada: *Validity of a method for identifying disease subtypes that are etiologically heterogeneous*
-
-2018 Eastern North American Region of the International Biometric Society, Atlanta, GA: *Validity of a method for identifying disease subtypes that are etiologically heterogeneous*
-
-2017 Joint Statistical Meetings, Baltimore, MD: *Dimension reduction in the study of etiologic heterogeneity*
-
-2017 Society for Epidemiologic Research, Seattle, WA: *A comparison of statistical methods for the study of etiologic heterogeneity* (poster)
-
-2017 Eastern North American Region of the International Biometric Society, Washington DC: *A comparison of statistical methods for the study of etiologic heterogeneity* (poster)
-
-2016 Molecular Pathologic Epidemiology, Boston, MA: *A review of statisitcal methods for evaluating etiologic heterogeneity*
-
-2011 Third North American American Congress of Epidemiology, Montreal, Canada: *Initial reactions to tobacco and risk of future regular tobacco use* (poster)
-
-2010 American Association for Dental Research, Washington DC: *Association between periodontal disease, bacterial vaginosis, and sexual risk behaviours*
-
-
+2015 American Society of Physical Anthropologist, Atlanta, GA: *Life history variation in strepsirrhine primates from the Duke Lemur Center*
 

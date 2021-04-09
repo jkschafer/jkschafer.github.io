@@ -8,13 +8,10 @@ pagetitle: "Jerred K. Schafer"
 
 <img src="images/jerred_1.jpeg" style="width:40%; border:10px solid; margin-right: 20px" align="left">
 
-I am an Assistant Staff Biostatistician at the Cleveland Clinic in the [Department of Quantitative Health Sciences](https://www.lerner.ccf.org/qhs/zabor/), with a joint appointment in the Taussig Cancer Institute. I also hold an academic appointment as Assistant Professor of Medicine at the Cleveland Clinic Lerner College of Medicine of Case Western Reserve University. 
+# Welcome 
+I grew up Alabama and earned my B.A. in Anthropology from [The University of Alabama at Birmingham](https://www.uab.edu/home/). I'm now completing my Ph.D at [The University at Albany-SUNY](https://www.albany.edu). The focus of my dissertation is applying quantitative genetic methods to model micro- and macroevolution in secondary sexual characteristics in mandrills (*Mandrillus sphinx*) and other primates.
 
-My research interests are in clinical trial design and statistical methods for observational studies, with applications to oncology.
-
-I earned my MS in biostatistics in 2010 from The University of Minnesota and my DrPH in biostatistics in 2019 from Columbia University.  
-
-I am an avid R enthusiast and an active member of [R Ladies](https://rladies.org/). 
+Aside from dissertation research, I like to take [photos](https://www.instagram.com/jerredkschafer/) sometimes.  
 
 
 

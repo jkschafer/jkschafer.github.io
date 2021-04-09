@@ -9,21 +9,20 @@ pagetitle: "Jerred K. Schafer"
 
 ## Tutorials
 
-Tutorial materials are available at [www.emilyzabor.com/tutorials](http://www.emilyzabor.com/tutorials/).
+TBD
 
 
 ## Adjunct professor classes
 
-Spring 2017: Fundamentals of Biostatistics, Hunter College
+Winter 2019-2020: Introduction to the Primates, University at Albany-SUNY
 
-Fall 2016: Fundamentals of Biostatistics, Hunter College
-
+Spring 2015: Introduction to the Primates, University at Albany-SUNY
 
 ## Teaching assistant classes
 
-Fall 2017: Data Science I, Columbia University
+Fall 2017-Spring 2020: Introduction to Human Evolution, University at Albany-SUNY
 
-Spring 2010: Advanced Topics in Clinical Trials, The University of Minnesota
+Fall 2015-Spring 2017: Anatomy and Physiology Laboratory, University at Albany-SUNY
 
-Spring 2009: Introduction to Biostatistics, The University of Minnesota
+
 

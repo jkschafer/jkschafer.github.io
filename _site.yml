@@ -20,8 +20,8 @@ navbar:
       href: ./files/Schafer_CV_2021-04-04.pdf
     - icon: fa-github fa-lg
       href: https://github.com/jkschafer
-    - icon: fa-twitter fa-lg
-      href: https://twitter.com/zabormetrics
+    - icon: fa-instagram fa-lg
+      href: https://www.instagram.com/jerredkschafer/
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/jerred-schafer-26784a1b0/
 output:

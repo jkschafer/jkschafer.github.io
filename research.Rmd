@@ -6,49 +6,40 @@ pagetitle: "Jerred K. Schafer"
 <link rel="stylesheet" href="styles.css" type="text/css">
 <link rel="stylesheet" href="academicicons/css/academicons.min.css"/>
 
-## Clinical trials
+## Research Interests
+* Micro- and Macroevolution in Primates and Fossil Hominins
+* Quantitative Genetics
+* Sexual Selection
+* Bayesian Statistics
 
-Appropriate clinical trial designs are essential to the testing of new therapeutics in oncology. New discoveries in cancer biology have shifted some focus away from chemotherapeutic drugs and toward biomarker-targeted treatments and immunotherapies. As a result, novel statistical approaches are needed.
+## Research Funding
 
-### Selected publications
+2020: Leakey Foundation Doctoral Dissertation Grant. Project: The evolution of sex differences in mandrills (*Mandrillus sphinx*): quantitative genetics of color and size dimorphism.
 
-**Zabor, E. C.**, Kane, M. J., Roychoudhury, S., Nie, L., & Hobss, B. P. (Under review).
-Bayesian Basket Trial Design with False Discovery Rate Control.
+2020: University at Albany Dissertation Research Fellowship 
 
-**Zabor, E. C.**, Kaizer, A. M., & Hobbs, B. P. (2020). Randomized Controlled Trials. *Chest*, 158(1s), S79-s87. doi:10.1016/j.chest.2020.03.013
+2017: University at Albany Graduate Student Association Professional Development Grant
 
-**Zabor, E. C.**, Heller, G., Schwartz, L. H., & Chapman, P. B. (2016). Correlating Surrogate Endpoints with Overall Survival at the Individual Patient Level in BRAFV600E-Mutated Metastatic Melanoma Patients Treated with Vemurafenib. *Clin Cancer Res*, 22(6), 1341-1347. doi:10.1158/1078-0432.ccr-15-1441
+2013: NSF Research Experience for Undergraduates (REU) Fellowship
 
-## Observational studies
-
-In a hospital setting it is natural to take advantage of the large quantities of data available through electronic health records to conduct retrospective data analyses. Careful thought is needed when applying statistical methods to ensure accurate and interpretable results.
-
-### Selected publications
-
-**Zabor, E. C.**, Coit, D., Gershenwald, J. E., McMasters, K. M., Michaelson, J. S., Stromberg, A. J., & Panageas, K. S. (2018). Variability in Predictions from Online Tools: A Demonstration Using Internet-Based Melanoma Predictors. *Ann Surg Oncol*, 25(8), 2172-2177. doi:10.1245/s10434-018-6370-4
-
-**Zabor, E. C.**, Gonen, M., Chapman, P. B., & Panageas, K. S. (2013). Dynamic prognostication using conditional survival estimates. *Cancer*, 119(20), 3589-3592. doi:10.1002/cncr.28273
-
-## Etiologic heterogeneity
-
-My dissertation research, under the advisement of [Dr. Shuang Wang](https://www.mailman.columbia.edu/people/our-faculty/sw2206) at Columbia University and [Dr. Colin Begg](https://www.mskcc.org/profile/colin-begg) at Memorial Sloan Kettering Cancer Center, focused on statistical methods for the study of etiologic heterogeneity. The first part of my research focused on comparing and contrasting existing methods for the study of etiologic heterogeneity using a simulation study and simplified data example. Next, I examined the statistical properties of our method for the study of etiologic heterogeneity to determine its ability to find the truly most etiologically heterogeneous subtype solutions under a variety of data settings. Finally, I applied the method to data from the Carolina Breast Cancer Study, and explored additional methodological challenges that exist in a real data analysis.
 
 ### Selected publications
 
-The below publications represent my work to date on the topic of statistical methods for the study of etiologic heterogeneity:
+**Schafer JK**, Gordon AD, Ngoubangoye B, Charpentier, M.J.E., Setchell JM. (2021). Heritability of secondary sexual characters in mandrills (*Mandrillus sphinx*). *Am Nat*. Submitted.
 
-Benefield, H. C., **Zabor, E. C.**, Shan, Y., Allott, E. H., Begg, C. B., & Troester, M. A. (2019). Evidence for Etiologic Subtypes of Breast Cancer in the Carolina Breast Cancer Study. *Cancer Epidemiol Biomarkers Prev*, 28(11), 1784-1791. 
+## Field and Research Experience
+* 2020: Orkney & Shetland, Scotland Census Database Researcher
+* 2019: Orkney & Shetland, Scotland Census Database Researcher
+* 2017: Evolutionary Quantitative Genetics Workshop, Friday Harbor Laboratories, University of Washington
+* 2016: Orkney, Scotland Census Database Researcher
+* 2015: Orkney, Scotland Census Database Researcher
+* 2014: Archaeological Excavation Project at Vanua Levu, Fiji
+* 2013: Archaeological Excavation Project at Vanua Levu, Fiji
 
-**Zabor, E. C.** (2019). riskclustr: Functions to Study Etiologic Heterogeneity. *Journal of Open Source Software*, 4(35): 1269.
+## Professional Affiliations
+* American Association of Physical Anthropologists
+* American Society of Naturalists
+* Society for the Study of Evolution
+* Evolutionary Demography Society
 
-**Zabor, E. C.**, & Begg, C. B. (2017). A comparison of statistical methods for the study of etiologic heterogeneity. *Stat Med*, 36(25), 4050-4060.
 
-Mauguen, A., **Zabor, E. C.**, Thomas, N. E., Berwick, M., Seshan, V. E., & Begg, C. B.(2017). Defining Cancer Subtypes With Distinctive Etiologic Profiles: An Application to the Epidemiology of Melanoma. *J Am Stat Assoc*, 112(517), 54-63.
-
-Begg, C. B., Rice, M. S., **Zabor, E. C.**, & Tworoger, S. S. (2017). Examining the common aetiology of serous ovarian cancers and basal-like breast cancers using double primaries. *Br J Cancer*.
-
-Begg, C. B., Orlow, I., **Zabor, E. C.**, Arora, A., Sharma, A., Seshan, V. E., Bernstein, J. L. (2015). Identifying Etiologically Distinct Sub-Types of Cancer: A Demonstration Project Involving Breast Cancer. *Cancer Med*, 4(9), 1432-1439.
-
-Begg, C. B., Seshan, V. E., **Zabor, E. C.**, Furberg, H., Arora, A., Shen, R., . . . Hsieh, J. J. (2014). Genomic investigation of etiologic heterogeneity: methodologic challenges. *BMC Med Res Methodol*, 14, 138.
-
-Begg, C. B., **Zabor, E. C.**, Bernstein, J. L., Bernstein, L., Press, M. F., Seshan, V. E. (2013). A conceptual and methodological framework for investigating etiologic heterogeneity. *Stat Med*, 32(29), 5039-5052.

@@ -6,15 +6,14 @@ pagetitle: "Jerred K. Schafer"
 <link rel="stylesheet" href="styles.css" type="text/css">
 <link rel="stylesheet" href="academicicons/css/academicons.min.css"/>
 
-## CRAN packages
+## R Programming
 
-- [`riskclustr`](https://cran.r-project.org/web/packages/riskclustr/index.html) (author), a package of functions for the study of etiologic heterogeneity
+- Quantitative genetic analysis using **MCMCglmm**
 
-- [`gtsummary`](https://cran.r-project.org/web/packages/gtsummary/index.html) (contributor) a package for creating presentation-ready summary tables
+- Data Visualization using **Tidyverse**
 
 ## Github packages
 
-- [`ezfun`](https://github.com/zabore/ezfun), a package of personal utility functions to generate tables for use in R Markdown reports
-- [`condsurv`](https://github.com/zabore/condsurv), a package for conditional survival analysis
+- Git and GitHub proficiency 
 
 
