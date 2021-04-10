@@ -9,7 +9,7 @@ pagetitle: "Jerred K. Schafer"
 
 ## Tutorials
 
-TBD
+I'm currently working through the Dr. Hanna Kokko's [wonderful book](https://bookshop.org/books/modelling-for-field-biologists-and-other-interesting-people-9780521538565/9780521538565) *Modelling for Field Biologists and Other Interesting People*, which uses MATLAB for modeling demonstrations. For the sake of open science, I'm currently translating her MATLAB code to **R**. You can follow the progress in my [GitHub](https://github.com/jkschafer/kokko2007Rcode) repository. 
 
 
 ## Adjunct professor classes
