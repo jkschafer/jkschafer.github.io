@@ -17,7 +17,7 @@ navbar:
     - icon: ai-google-scholar ai-lg
       href: https://scholar.google.com/citations?user=coXeHS4AAAAJ&hl=en
     - icon: ai-cv ai-lg
-      href: ./files/Schafer_CV_2021-04-04.pdf
+      href: ./files/CV.pdf
     - icon: fab fa-github fa-lg
       href: https://github.com/jkschafer
     - icon: fab fa-linkedin fa-lg

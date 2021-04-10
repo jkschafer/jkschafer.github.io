@@ -8,12 +8,20 @@ pagetitle: "Jerred K. Schafer"
 
 ## R Programming
 
-- Quantitative genetic analysis using **MCMCglmm**
+- Bayesian data analysis
 
-- Data Visualization using **Tidyverse**
+- Quantitative genetic analysis (**MCMCglmm**)
 
-## Github packages
+- Macroevolutionary modeling (**RPANDA**, **Phytools**, **Ape**)
 
-- Git and GitHub proficiency 
+- Data Visualization (Base **R**, **Tidyverse**)
+
+## Other Software
+
+- Git and GitHub  
+
+- Unix
+
+- \LaTeX
 
 
