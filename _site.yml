@@ -18,10 +18,12 @@ navbar:
       href: https://scholar.google.com/citations?user=coXeHS4AAAAJ&hl=en
     - icon: ai-cv ai-lg
       href: ./files/Schafer_CV_2021-04-04.pdf
-    - icon: fa-github fa-lg
+    - icon: fab fa-github fa-lg
       href: https://github.com/jkschafer
-    - icon: fa-linkedin fa-lg
+    - icon: fab fa-linkedin fa-lg
       href: https://www.linkedin.com/in/jerred-schafer-26784a1b0/
+    - icon: fab fa-instagram fa-lg
+      href: https://www.instagram.com/jerredkschafer/
 output:
   html_document:
     theme: paper
