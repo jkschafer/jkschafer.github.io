@@ -22,6 +22,6 @@ pagetitle: "Jerred K. Schafer"
 
 - Unix
 
-- \LaTeX
+- LaTeX & BibTeX
 
 
