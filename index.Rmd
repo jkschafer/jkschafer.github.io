@@ -9,7 +9,7 @@ pagetitle: "Jerred K. Schafer"
 <img src="images/jerred_1.jpeg" style="width:40%; border:10px solid; margin-right: 20px" align="left">
 
 # About Me 
-I grew up Alabama and earned my B.A. in Anthropology from [The University of Alabama at Birmingham](https://www.uab.edu/home/). I'm now completing my Ph.D at [The University at Albany-SUNY](https://www.albany.edu). The focus of my dissertation is applying quantitative genetic methods to model micro- and macroevolution in secondary sexual characteristics in mandrills (*Mandrillus sphinx*) and other primates.
+I grew up Alabama and earned my B.A. in Anthropology from [The University of Alabama at Birmingham](https://www.uab.edu/home/) and completed my Ph.D at [The University at Albany-SUNY](https://www.albany.edu). The focus of my dissertation is applying quantitative genetic methods to model micro- and macroevolution in secondary sexual characteristics in mandrills (*Mandrillus sphinx*) and other primates.
 
 Aside from dissertation research, I like to take [photos](https://www.instagram.com/jerredkschafer/) sometimes.  
 
