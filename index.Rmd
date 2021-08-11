@@ -1,6 +1,6 @@
 ---
-title: " "
-pagetitle: "Jerred K. Schafer"
+title: ' '
+pagetitle: Jerred K. Schafer
 ---
 
 <link rel="stylesheet" href="styles.css" type="text/css">
